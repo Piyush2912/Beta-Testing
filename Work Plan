@@ -1,1 +1,181 @@
 Let us begin!
+Beta Testing is one of the Acceptance Testing types, which adds value to the product as the end-user (intended real user) validates the product for functionality, usability, reliability, and compatibility.
+
+Inputs provided by the end-users helps in enhancing the quality of the product further and leads to its success. This also helps in decision making to invest further in the future products or the same product for improvisation.
+
+Since Beta Testing happens at the end user’s side, it cannot be the controlled activity.
+
+Purpose of Beta Testing
+
+The points mentioned below can even be considered as the objectives for Beta Test and are very much required to produce far better results for a product.
+
+#1) Beta Test provides a complete overview of the true experience gained by the end users while experiencing the product.
+
+#2) It is performed by a wide range of users and the reasons for which the product is being used varies highly. Marketing managers focus on target market’s opinion on each and every feature, while a usability engineer / common real users focus on product usage and easiness, technical users focus on installation and uninstallation experience, etc..
+
+But the actual perception of the end users clearly exhibits why they need this product and how they are going to use it.
+
+#3) Real world compatibility for a product can be ensured to a greater extent through this testing, as a great combination of real platforms is used here for testing on a wide range of devices, OS, Browsers, etc.
+
+#4) As a wide range of platforms which the end users are actually using, might not be available to the internal testing team during the QA, this testing also helps to uncover the hidden bugs and gaps in the final product.
+
+#5) Few specific platforms will cause the product to fail with showstopper bug which was not covered during QA. And this helps in improvising/fixing the product to be a compatible one with all possible platforms.
+
+#6) Known Issues, which are accepted by the Product Management team, may take a great turn when the end user faces the same issue and may not be comfortable while using the product. In such cases, this testing helps to analyze the impact of known issues on the entire product as the user experience gets hampered and is not acceptable for any successful business.
+
+When is Beta Testing Done?
+Beta Testing is always performed right after the completion of Alpha Testing, but before the product is released to the market (Production Launch / Go Live). Here the product is expected to be at least 90% – 95% completed (stable enough on any of the platforms, all features either almost or fully complete).
+
+Ideally, all the technical Products should undergo the Beta Testing phase as they are mainly dependent on platforms and process.
+
+Any Product undergoing Beta Test should be reviewed against certain Readiness Checklist before launching it.
+
+Few of them are:
+
+All the components of the Product are ready to start this testing.
+Documentation that has to reach the end users should be kept ready – Setup, Installation, Usage, Uninstallation should be detailed out and reviewed for correctness.
+Product Management team should review if each and every key functionality is in good working condition.
+Procedure to collect Bugs, feedback etc should be identified and reviewed to publish.
+Usually, one or two test cycles with 4 to 6 weeks per cycle are the duration of Beta Test. It gets extended only if there is a new feature added or when the core component is modified.
+
+Stakeholders and Participants
+Product Management, Quality Management, and User Experience teams are the Stakeholders in Beta Testing and they closely monitor each and every move of the phase.
+
+End users/Real users who actually want to use the product are the Participants.
+
+Strategy
+Beta Test strategy:
+
+Business objectives for the product.
+Schedule – Entire phase, cycles, duration of each cycle etc.
+Beta Test Plan.
+Testing approach to be followed by the participants.
+Tools used to log bugs, measure productivity, collect feedback – either through surveys or ratings.
+Rewards and Incentives to the participants.
+When and How to end this testing phase.
+Beta Test Plan
+Beta Test Plan can be written in many ways based on the extent to which it is performed.
+
+Here I am listing out the common items for any Beta Test Plan to include:
+
+Objective: Mention the objective of the project so as to why it is undergoing Beta Testing even after performing rigorous internal tests.
+Scope: Clearly mention what are the areas to be tested and what is not to be tested. Also mention any specific data to be used for a particular feature (say use test credit card for payment validations – Card no, CVV, Expiry Date, OTP, etc).
+Test Approach: Clearly mention whether the testing is exploratory, what to focus on – functionality, UI, response, etc. Mention the procedure to log bugs and also what all to provide a proof (Screenshots/Videos).
+Schedule: Clearly specify the Start and End Dates with time, number of cycles, and duration per cycle.
+Tools: Bug logging tool and its usage.
+Budget: Incentives for bugs based on it severity
+Feedback: Collecting Feedback and Evaluating methods.
+Identify and review the Entry and Exit criteria.
+Entry Criteria
+
+Alpha Testing should be signed off.
+Product’s Beta version should be ready and launched.
+User Manuals, Known Issues list should be documented and must be kept ready to be published.
+Tools to capture bugs, feedback should be ready and usage documentation should be published.
+Exit Criteria
+
+No Showstopper bugs in any of the platform.
+All Major bugs discovered in Beta Test phase should be fixed.
+Beta Summary Report.
+Beta Testing Sign Off.
+A strong Beta Test Plan and its effective execution it will result in the success of the testing phase.
+
+How is Beta Testing Performed
+This type of testing can be performed in several ways, but there are five different stages in general.
+
+#1) Planning
+Define the goals in advance. This helps in planning the number of users required to participate in the testing and the duration required to complete and reach the goals.
+
+#2) Participants Recruitment
+Ideally, any number of users can participate in testing, but due to budget constraints, the project has to set up a  minimum and maximum limit on the number of users participating. Usually, 50 – 250 users are targeted for mid-complex products.
+
+
+#3) Product Launch
+Installation packages should be distributed to the participants – Ideally, share the link from where they can download and Install.
+Share User Manuals, Guides, Known Issues, Scope of testing to the participants etc.
+Share the Bug logging methods to the participants.
+#4) Collect and Evaluate Feedback
+Bugs raised by the participants are handled by the bug management process.
+Feedback & Suggestions are collected by the participants based on their experience with the Product.
+Feedbacks are evaluated to analyze and make out the customer to satisfy the product.
+Suggestions are considered to improve the product in its next versions.
+#5) Closure
+Once a certain point is reached and when all the features are working, no bugs are arising, and exit criteria are met then decide to conclude Beta Testing Phase.
+Distribute Rewards / Incentives to the participants as per the plan decided and thank them formally to maintain good relationship (this helps in further beta test on the product, much more feedbacks, suggestions, etc)
+Managing This Testing Phase
+Managing the entire beta phase is not less than a challenge, as it cannot be controlled once started. So, it’s always a good practice to set up forum discussions and include all the participants to take part in it. Limit the discussions to the Beta aspects of the product and then follow the process.
+
+Conduct Surveys for experience on the product and encourage the participants to write testimonials on the product
+
+Identify the validators to monitor Beta Test Progress at frequent intervals and then allow them to communicate with the participants if required.
+
+Challenges
+Identifying and recruiting a right participant is the major challenge. Participants may or may not actually have the necessary skills to the required level. They may not be technical experts to test each and every aspects of the product, which will result in testing the product at very high levels.
+
+Hidden bugs may be difficult to be uncovered in some cases. Another challenge is to collect the feedback. Not all the feedback can be considered as valuable ones nor not all can be evaluated. Only the relevant ones are to be picked to evaluate the customer satisfaction level.
+
+Feedback should be delivered to the relevant teams which are again a tedious job for the Product Management Team. Also, Beta Testing cannot have well-defined plans always. It may have to wind up in a hurry in case of time constraints. This makes the goals unsuccessful and the product is not thoroughly experienced by the participants.
+
+When does Beta Testing Fail:
+
+No proper plan to execute.
+Poor test management.
+Tight deadlines due to delays in previous phases.
+Released unstable product.
+An improper number of participants – too few or too many.
+Too short or too long test periods.
+Ineffective tools.
+No effective feedback management.
+Poor Incentives.
+Related Useful Terms:
+
+Beta Software – It is the preview version of the software released to the public before final release.
+Beta Version – It is the Software version releases to the public that includes almost all of the features in which development is not completed yet and may still have some errors.
+Beta Testers – Beta Testers are those who work on the testing beta version of the software release.
+
+How Companies can Make Beta Test Successful
+Given below are few pointers which explain how to perform this testing successfully.
+
+First decide, how many days you want to keep the beta version available for testers.
+Identify the ideal user groups to perform this test – Either limited group of users or in public.
+Provide clear test instructions (user manual).
+Make the beta software available to these groups – Gather feedback and defects.
+Based on feedback analysis decide which issues need to be fixed before the final release.
+Once the suggestions and defects are fixed, again release the changed version for verification to the same groups.
+Once all tests are completed, do not accept any further feature change request for this release.
+Remove the beta label and release the final software version.
+How to Get Started as a Beta Tester
+Once your application as a beta tester is accepted by a company, then follow the below steps:
+
+Download and read the software requirement specifications, known defects, and modules to test.
+Download and install the beta software.
+Start testing.
+Prepare the bug report for the issues found in the application.
+Also, note down your suggestions/feedback about the application to improve the user experience.
+Submit the bug report and feedback to the company.
+Adding Beta Testing Experience in Your Resume
+Many entry-level candidates complaint about not getting real-time testing experience on software projects. Testing beta releases are the best opportunity for freshers to show their skills and also to get hands-on experience on real projects.
+
+You can even put this experience on your resume with details (like the project, project description, test environment etc.) about the beta application which you tested. This will definitely catch the employer's attention especially when you are a fresher seeking job in the software testing field.
+
+How to Find an Opportunity as a Beta Tester
+Option #1: Get software testing experience
+Let's take an example of Microsoft. You can apply to become a beta tester for Microsoft. If you check these opportunities at Microsoft there are currently more than 40 beta software available for testing. Microsoft Corporation is accepting defects and suggestions for these products.
+
+This is a huge opportunity for you. Browse this list, select a product and start testing it locally. Use all your testing skills to find and log defects. Who knows – this might even land you the job of your dreams in any of such companies offering beta versions to test.
+
+You can also find some more beta application testing opportunities on the link given here.
+
+Option #2: Make some extra money
+Some companies even pay you money to test their beta applications. Video game testing industry is one of the best starting points for paid beta testing opportunities. Most video game companies pay a decent amount to the beta testers for testing the beta versions of their video game releases.
+
+But be careful before making any investment as there are many scam sites asking for money to join as a game tester. Before making any commitment make sure you investigate the site carefully. You can also find real Beta Tester jobs  on some career sites like Careers.org and Simplyhired.
+
+I mentioned the second option just as one of the opportunities for you but my main purpose is to educate you on beta test opportunities that you can use to improve your testing skill on real-life projects and the experience to mention in your resume to reach your dream job.
+
+Conclusion
+Until the users like a product, it can never be considered as successful.
+
+Beta Testing is one such methodology which allows the users to experience the product before it reaches the market. Thorough testing on varied platforms and valuable feedback from the real users ultimately results in successful Beta Testing of the Product and ensures that the Customer is satisfied with its usage.
+
+This practice is the better way to analyze the success of any product before its Production Launch.
